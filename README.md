@@ -22,5 +22,6 @@ Step 4 : If you want to stop shifting of menus which are default behaviour .
 then you need to add a BottomNavigationHelper File and then initialize your 
 Bottom bar in your Activity.java file  
 
-       <a href="https://github.com/AnannaRahman/BottomNavigationBar/blob/master/8271887963659580605.gif"></a>
+![8426608588439334966](https://user-images.githubusercontent.com/11834325/47814685-8c08c880-dd78-11e8-87c6-3d36396282ae.gif)
+
       
